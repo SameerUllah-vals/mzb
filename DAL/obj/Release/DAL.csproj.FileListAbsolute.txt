@@ -1,0 +1,12 @@
+D:\Projects\Vals_Projects\MZBGit\DAL\bin\Release\DAL.dll
+D:\Projects\Vals_Projects\MZBGit\DAL\bin\Release\DAL.pdb
+D:\Projects\Vals_Projects\MZBGit\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\Projects\Vals_Projects\MZBGit\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Vals_Projects\MZBGit\DAL\obj\Release\DAL.dll
+D:\Projects\Vals_Projects\MZBGit\DAL\obj\Release\DAL.pdb
+D:\Vals 2020\GIT\repo\DAL\bin\Release\DAL.dll
+D:\Vals 2020\GIT\repo\DAL\bin\Release\DAL.pdb
+D:\Vals 2020\GIT\repo\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\Vals 2020\GIT\repo\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Vals 2020\GIT\repo\DAL\obj\Release\DAL.dll
+D:\Vals 2020\GIT\repo\DAL\obj\Release\DAL.pdb

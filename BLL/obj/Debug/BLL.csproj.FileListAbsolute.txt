@@ -1,0 +1,26 @@
+E:\Vals_Projects\MZBGit\BLL\bin\Debug\BLL.dll
+E:\Vals_Projects\MZBGit\BLL\bin\Debug\BLL.pdb
+E:\Vals_Projects\MZBGit\BLL\bin\Debug\DAL.dll
+E:\Vals_Projects\MZBGit\BLL\bin\Debug\DAL.pdb
+E:\Vals_Projects\MZBGit\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Vals_Projects\MZBGit\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Vals_Projects\MZBGit\BLL\obj\Debug\BLL.dll
+E:\Vals_Projects\MZBGit\BLL\obj\Debug\BLL.pdb
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\bin\Debug\BLL.dll
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\bin\Debug\BLL.pdb
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\bin\Debug\DAL.dll
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\bin\Debug\DAL.pdb
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\obj\Debug\BLL.dll
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\BLL\obj\Debug\BLL.pdb
+D:\Vals 2020\GIT\repo\BLL\bin\Debug\BLL.dll
+D:\Vals 2020\GIT\repo\BLL\bin\Debug\BLL.pdb
+D:\Vals 2020\GIT\repo\BLL\bin\Debug\DAL.dll
+D:\Vals 2020\GIT\repo\BLL\bin\Debug\DAL.pdb
+D:\Vals 2020\GIT\repo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Vals 2020\GIT\repo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Vals 2020\GIT\repo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Vals 2020\GIT\repo\BLL\obj\Debug\BLL.dll
+D:\Vals 2020\GIT\repo\BLL\obj\Debug\BLL.pdb

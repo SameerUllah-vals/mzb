@@ -1,0 +1,17 @@
+E:\Vals_Projects\MZBGit\DAL\bin\Debug\DAL.dll
+E:\Vals_Projects\MZBGit\DAL\bin\Debug\DAL.pdb
+E:\Vals_Projects\MZBGit\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Vals_Projects\MZBGit\DAL\obj\Debug\DAL.dll
+E:\Vals_Projects\MZBGit\DAL\obj\Debug\DAL.pdb
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\DAL\bin\Debug\DAL.dll
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\DAL\bin\Debug\DAL.pdb
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\DAL\obj\Debug\DAL.dll
+D:\Vals 2020\GIT\Vals-BiltyManagementSystem-MZB-main\DAL\obj\Debug\DAL.pdb
+D:\Vals 2020\GIT\repo\DAL\bin\Debug\DAL.dll
+D:\Vals 2020\GIT\repo\DAL\bin\Debug\DAL.pdb
+D:\Vals 2020\GIT\repo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Vals 2020\GIT\repo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Vals 2020\GIT\repo\DAL\obj\Debug\DAL.dll
+D:\Vals 2020\GIT\repo\DAL\obj\Debug\DAL.pdb

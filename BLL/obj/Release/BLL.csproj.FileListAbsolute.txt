@@ -1,0 +1,18 @@
+D:\Projects\Vals_Projects\MZBGit\BLL\bin\Release\BLL.dll
+D:\Projects\Vals_Projects\MZBGit\BLL\bin\Release\BLL.pdb
+D:\Projects\Vals_Projects\MZBGit\BLL\bin\Release\DAL.dll
+D:\Projects\Vals_Projects\MZBGit\BLL\bin\Release\DAL.pdb
+D:\Projects\Vals_Projects\MZBGit\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\Projects\Vals_Projects\MZBGit\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Vals_Projects\MZBGit\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\Projects\Vals_Projects\MZBGit\BLL\obj\Release\BLL.dll
+D:\Projects\Vals_Projects\MZBGit\BLL\obj\Release\BLL.pdb
+D:\Vals 2020\GIT\repo\BLL\bin\Release\BLL.dll
+D:\Vals 2020\GIT\repo\BLL\bin\Release\BLL.pdb
+D:\Vals 2020\GIT\repo\BLL\bin\Release\DAL.dll
+D:\Vals 2020\GIT\repo\BLL\bin\Release\DAL.pdb
+D:\Vals 2020\GIT\repo\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\Vals 2020\GIT\repo\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\Vals 2020\GIT\repo\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\Vals 2020\GIT\repo\BLL\obj\Release\BLL.dll
+D:\Vals 2020\GIT\repo\BLL\obj\Release\BLL.pdb

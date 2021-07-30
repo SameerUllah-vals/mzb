@@ -1,0 +1,290 @@
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\BiltySystem.dll.config
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\BiltySystem.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\BiltySystem.pdb
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\csc.exe
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\csc.exe.config
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\csc.rsp
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\csi.exe
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\csi.exe.config
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\csi.rsp
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.AppContext.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Console.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.IO.Compression.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.IO.Pipes.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Security.AccessControl.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Security.Claims.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.ValueTuple.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\vbc.exe
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\vbc.exe.config
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\vbc.rsp
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\AjaxControlToolkit.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\BLL.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\itextsharp.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.ReportViewer.Common.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.ReportViewer.Design.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.SqlServer.Types.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\DAL.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\EnvDTE.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\stdole.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.MSXML.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\BLL.pdb
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\itextsharp.xml
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\DAL.pdb
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\obj\Release\BiltySystem.csprojAssemblyReference.cache
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\obj\Release\RdlCompile.cache
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\obj\Release\RdlCompile.compiled
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\obj\Release\BiltySystem.csproj.CoreCompileInputs.cache
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\obj\Release\BiltySystem.csproj.CopyComplete
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\obj\Release\BiltySystem.dll
+D:\Projects\Vals_Projects\MZBGit\BiltySystem\obj\Release\BiltySystem.pdb
+D:\Vals 2020\GIT\repo\BiltySystem\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\BiltySystem.dll.config
+D:\Vals 2020\GIT\repo\BiltySystem\bin\BiltySystem.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\BiltySystem.pdb
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\csc.exe
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\csc.exe.config
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\csc.rsp
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\csi.exe
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\csi.exe.config
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\csi.rsp
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.AppContext.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Console.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.IO.Compression.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.IO.Pipes.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Security.AccessControl.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Security.Claims.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.ValueTuple.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Xml.XPath.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\vbc.exe
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\vbc.exe.config
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\vbc.rsp
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\VBCSCompiler.exe
+D:\Vals 2020\GIT\repo\BiltySystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Vals 2020\GIT\repo\BiltySystem\bin\AjaxControlToolkit.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\BLL.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\itextsharp.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.ReportViewer.Common.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.ReportViewer.Design.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.SqlServer.Types.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\DAL.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\EnvDTE.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\stdole.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.MSXML.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\BLL.pdb
+D:\Vals 2020\GIT\repo\BiltySystem\bin\itextsharp.xml
+D:\Vals 2020\GIT\repo\BiltySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vals 2020\GIT\repo\BiltySystem\bin\DAL.pdb
+D:\Vals 2020\GIT\repo\BiltySystem\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vals 2020\GIT\repo\BiltySystem\obj\Release\BiltySystem.csprojAssemblyReference.cache
+D:\Vals 2020\GIT\repo\BiltySystem\obj\Release\RdlCompile.cache
+D:\Vals 2020\GIT\repo\BiltySystem\obj\Release\RdlCompile.compiled
+D:\Vals 2020\GIT\repo\BiltySystem\obj\Release\BiltySystem.csproj.CoreCompileInputs.cache
+D:\Vals 2020\GIT\repo\BiltySystem\obj\Release\BiltySystem.csproj.CopyComplete
+D:\Vals 2020\GIT\repo\BiltySystem\obj\Release\BiltySystem.dll
+D:\Vals 2020\GIT\repo\BiltySystem\obj\Release\BiltySystem.pdb

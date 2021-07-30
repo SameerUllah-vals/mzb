@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{44C7A50D-ABAA-420D-B02E-F8A8BF426DCB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountsDML.cs" />
+    <Compile Include="AreaDML.cs" />
+    <Compile Include="BankAccountsDML.cs" />
+    <Compile Include="BanksDML.cs" />
+    <Compile Include="BrokersDML.cs" />
+    <Compile Include="CategoryDML.cs" />
+    <Compile Include="CityDML.cs" />
+    <Compile Include="ClearingAgentDML.cs" />
+    <Compile Include="CodeGenerator.cs" />
+    <Compile Include="CompanyAccountsDML.cs" />
+    <Compile Include="CompanyDML.cs" />
+    <Compile Include="CompanyProfileDML.cs" />
+    <Compile Include="ContainersDML.cs" />
+    <Compile Include="ContainerTypeDML.cs" />
+    <Compile Include="DamageTypeDML.cs" />
+    <Compile Include="DepartmentDML.cs" />
+    <Compile Include="DepartmentPersonDML.cs" />
+    <Compile Include="DocumentTypeDML.cs" />
+    <Compile Include="DriversDML.cs" />
+    <Compile Include="ExpensesTypeDML.cs" />
+    <Compile Include="GenerDML.cs" />
+    <Compile Include="GroupDML.cs" />
+    <Compile Include="InvoiceDML.cs" />
+    <Compile Include="ItemDML.cs" />
+    <Compile Include="LocationDML.cs" />
+    <Compile Include="ManualBiltyDML.cs" />
+    <Compile Include="MenuDML.cs" />
+    <Compile Include="ModulesDML.cs" />
+    <Compile Include="NatureDML.cs" />
+    <Compile Include="NaviDML.cs" />
+    <Compile Include="NavMenuDML.cs" />
+    <Compile Include="OrderDML.cs" />
+    <Compile Include="OrganizationDML.cs" />
+    <Compile Include="OwnCompanyDML.cs" />
+    <Compile Include="OwnDepartmentDML.cs" />
+    <Compile Include="OwnGroupDML.cs" />
+    <Compile Include="PackagingTypeDML.cs" />
+    <Compile Include="PatrolPumpDML.cs" />
+    <Compile Include="ProductDML.cs" />
+    <Compile Include="ProductDML_OLD.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegionDML.cs" />
+    <Compile Include="ReportsDML.cs" />
+    <Compile Include="RevenueTypeDML.cs" />
+    <Compile Include="SalesOrderDML.cs" />
+    <Compile Include="SalesTaxInvoiceDML.cs" />
+    <Compile Include="SectionDML.cs" />
+    <Compile Include="ShippingLineDML.cs" />
+    <Compile Include="TripDML.cs" />
+    <Compile Include="UsersDML.cs" />
+    <Compile Include="VehicleDML.cs" />
+    <Compile Include="VehicleExpensesDML.cs" />
+    <Compile Include="VehicleTypeDML.cs" />
+    <Compile Include="VoucherDML.cs" />
+    <Compile Include="VouchersDML.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{aef7109e-236f-4cc5-9c7f-de861f3c5db5}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
